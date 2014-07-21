@@ -9,4 +9,7 @@ group :development do
   gem "rspec", "~> 3"
   gem "bundler"
   gem "jeweler", "~> 2.0.1"
+  gem "pry"
 end
+
+gem "groupdate", "~> 2.2.1"
